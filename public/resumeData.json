@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Aman Sharma",
+    "occupation": "Software Developer",
+    "description": "I eat, sleep, explore & code",
+    "image": "profilepic.jpeg",
+    "bio": "I am passionate software developer with 3.5+ years of experience, I likes to face challenges , make mistakes and learn from them quickly. Started out with fundamentals of Web Dev ( Html , Css , Javascript ) when I was in college. Gradually added skills on top of them by reading tech blogs , watching tutorials and most importantly implement whatever I learnt.",
+    "contactmessage": "You can contact me on weekends and can contact me about open source, help , anything that can benefit everyone.",
+    "email": "amanantonio1932815@gmail.com",
+    "phone": "+91 7869336577",
+    "address": {
+      "street": "",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "zip": "452001"
+    },
+    "website": "https://amansharma193.github.io/Portfolio",
+    "resumedownload": "https://drive.google.com/file/d/1Y4N2bWyVAF-fq6VBGL52362wkXHszuka/view?usp=sharing",
+    "social": [
+      {
+        "name": "Hackerrank",
+        "url": "https://www.hackerrank.com/profile/aman_sharma193",
+        "className": "fa fa-hackerrank"
+      },
+      {
+        "name": "Leetcode",
+        "url": "https://leetcode.com/u/CORTISOL_786/",
+        "className": "fa fa-leetcode"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aman-sharma-7036901bb/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "GFG",
+        "url": "https://www.geeksforgeeks.org/user/amanantonio1932815/",
+        "className": "fa fa-geeksforgeeks"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/amansharma193",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Devi Ahilya University - Indore",
+        "degree": "Bachelor's Degree, Commerce & Economics",
+        "graduated": "July 2022",
+        "description": "Graduated with 8.2 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Hammoq Infosystems",
+        "title": "Full Stack Developer",
+        "years": "November 2023 - Present",
+        "description": "Enhanced thrift sales product for the US market, automating online sales for thrift stores via Neatoscan, Upright, & Ebay."
+      },
+      {
+        "company": "Amenses Innovation",
+        "title": "Software Developer",
+        "years": "April 2022 - October 2023",
+        "description": "Lead the development of new features for the company's flagship product. Created innovative algorithms to improve the performance of the software."
+      },
+      {
+        "company": "Throughout Technologies",
+        "title": "Associate System Engineer",
+        "years": "March 2021 - March 2022",
+        "description": "Provided technical support to end-users, troubleshooting complex issues and resolving them quickly and effectively. Collaborated with cross-functional teams to identify and resolve system vulnerabilities, enhancing overall security and reliability."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "Node.js",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "AWS Lambda",
+        "level": "50%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "70%"
+      },
+      {
+        "name": "Flask",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "60%"
+      },
+      {
+        "name": "Docker",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Online compiler (React JS & Node.js)",
+        "category": "",
+        "image": "compiler.png",
+        "url": "https://slow-compiler.netlify.app/"
+      },
+      {
+        "title": "Create Memories (MERN)",
+        "category": "",
+        "image": "create-memory.png",
+        "url": "https://create-a-memory.netlify.app/"
+      },
+      {
+        "title": "Crypto Tracker (React JS)",
+        "category": "",
+        "image": "cryptoTracker.png",
+        "url": "https://amansharma193.github.io/Crypto-Tracker/"
+      }
+    ]
+  }
+}

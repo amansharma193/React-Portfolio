@@ -1,0 +1,42 @@
+.submit {
+  background-color: black;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+:root {
+  --toastify-color-success: #F06000;
+  --toastify-icon-color-success: var(--toastify-color-success);
+}
+
+.fa-leetcode {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-image: url('/public/images/leetcode.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.fa-hackerrank {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-image: url('/public/images/hackerrank.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.fa-geeksforgeeks {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-image: url('/public/images/geeksforgeeks.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+body {
+  width: 100%;
+}
+
