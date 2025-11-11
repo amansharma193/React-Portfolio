@@ -1,0 +1,8 @@
+.social-icon, .fa {
+  color: grey;
+  transition: color 0.3s;
+}
+
+.social-icon:hover, .fa:hover {
+  color: white;
+}

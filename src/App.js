@@ -7,7 +7,7 @@ import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
 
-import "./App.css";
+import "./styles/App.css";
 
 const App = () => {
   const [resumeData, setResumeData] = useState({});

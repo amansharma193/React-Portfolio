@@ -9,31 +9,34 @@
   --toastify-icon-color-success: var(--toastify-color-success);
 }
 
-.fa-leetcode {
-  display: inline-block;
-  width: 24px;
-  height: 24px;
-  background-image: url('/public/images/leetcode.svg');
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-
-.fa-hackerrank {
-  display: inline-block;
-  width: 24px;
-  height: 24px;
-  background-image: url('/public/images/hackerrank.svg');
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-
+.fa-leetcode,
+.fa-hackerrank,
 .fa-geeksforgeeks {
   display: inline-block;
   width: 24px;
   height: 24px;
-  background-image: url('/public/images/geeksforgeeks.svg');
   background-size: contain;
   background-repeat: no-repeat;
+  filter: grayscale(100%) brightness(0.7); /* Standard grey */
+  transition: filter 0.3s;
+}
+
+.fa-leetcode {
+  background-image: url('/public/images/leetcode.svg');
+}
+
+.fa-hackerrank {
+  background-image: url('/public/images/hackerrank.svg');
+}
+
+.fa-geeksforgeeks {
+  background-image: url('/public/images/geeksforgeeks.svg');
+}
+
+.fa-leetcode:hover,
+.fa-hackerrank:hover,
+.fa-geeksforgeeks:hover {
+  filter: none; /* Shows original colored icon on hover */
 }
 
 body {

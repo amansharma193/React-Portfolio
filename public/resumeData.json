@@ -4,7 +4,7 @@
     "occupation": "Software Developer",
     "description": "I eat, sleep, explore & code",
     "image": "profilepic.jpeg",
-    "bio": "I am passionate software developer with 3.5+ years of experience, I likes to face challenges , make mistakes and learn from them quickly. Started out with fundamentals of Web Dev ( Html , Css , Javascript ) when I was in college. Gradually added skills on top of them by reading tech blogs , watching tutorials and most importantly implement whatever I learnt.",
+    "bio": "I am passionate software developer with 5+ years of experience, I likes to face challenges , make mistakes and learn from them quickly. Started out with fundamentals of Web Dev ( Html , Css , Javascript ) when I was in college. Gradually added skills on top of them by reading tech blogs , watching tutorials and most importantly implement whatever I learnt.",
     "contactmessage": "You can contact me on weekends and can contact me about open source, help , anything that can benefit everyone.",
     "email": "amanantonio1932815@gmail.com",
     "phone": "+91 7869336577",
@@ -15,7 +15,7 @@
       "zip": "452001"
     },
     "website": "https://amansharma193.github.io/Portfolio",
-    "resumedownload": "https://drive.google.com/file/d/1Y4N2bWyVAF-fq6VBGL52362wkXHszuka/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1G6ROiDL9ALWYn_Q3WZqnTPBdI-ObHW4I/view?usp=sharing",
     "social": [
       {
         "name": "Hackerrank",
@@ -55,6 +55,12 @@
       }
     ],
     "work": [
+      {
+        "company": "Startappss System India",
+        "title": "Full Stack Developer",
+        "years": "November 2024 - November 2025",
+        "description": "Developed an advanced safety monitoring platform for the US transport industry, integrating Surfsight & Nextgen cameras to track driver behavior and vehicle performance in real time."
+      },
       {
         "company": "Hammoq Infosystems",
         "title": "Full Stack Developer",
@@ -123,6 +129,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Global Trip Planner (React JS & Node.js)",
+        "category": "",
+        "image": "tripPlanner.png",
+        "url": "https://globaltourplanner.vercel.app/"
+      },
       {
         "title": "Online compiler (React JS & Node.js)",
         "category": "",
